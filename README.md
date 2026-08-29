@@ -10,7 +10,7 @@ It provides an interactive view of business performance using **DAX measures, KP
 
 ## 📊 Dashboard Preview
 
-![Super Store KPI Dashboard](Super Store KPI Dashboard.png)
+![Super Store KPI Dashboard](Super store KPIs Dashboard.png)
 
 ## 📌 Overview
 
